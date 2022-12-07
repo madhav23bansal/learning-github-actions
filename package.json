@@ -1,0 +1,12 @@
+{
+  "name": "learning-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:madhav23bansal/learning-github-actions.git",
+  "author": "madhav23bansal <madhavb230100@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo 1",
+    "test": "echo 2"
+  }
+}
